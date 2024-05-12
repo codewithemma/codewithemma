@@ -5,7 +5,7 @@ Frontend Engineer | Next.js Enthusiast | Bookworm 📚 | Tech Enthusiast | Gamer
 
 Passionate about building fast, scalable applications with Next.js. When not coding, you'll find me:
 - **Tech Video Explorer:** Getting lost in a tech video 📺
-- **Cinephile:** Catching up on the latest movies and TV shows 🍿
+- **Movie Buff:** Catching up on the latest movies and TV shows 🍿
 - **Gaming Enthusiast:** Exploring new worlds in video games 🌌
 
 I believe in the power of collaboration and love bringing innovative ideas to life. Let's build something amazing together! 🚀

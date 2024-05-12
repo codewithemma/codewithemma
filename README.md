@@ -1,5 +1,5 @@
 # Hi, I'm Emmanuel! 👋🏽
-Frontend Engineer | Next.js Enthusiast | Bookworm 📚 | Tech Enthusiast | Gamer 🎮
+Frontend Engineer | Next.js Enthusiast | Tech Enthusiast | Gamer 🎮
 
 ## About Me
 

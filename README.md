@@ -19,7 +19,7 @@ I believe in the power of collaboration and love bringing innovative ideas to li
 
 ## Get in Touch
 
-Want to collaborate or just say hi? Reach out to me at: [codewithemma@gmail.com](mailto:codewithemma@gmail.com)
+Want to collaborate or just say hi? Reach out to me at: [codewithemma@gmail.com](mailto:codewithemma@gmail.com)<br>
 Instagram: [codewithemma](https://www.instagram.com/captain_ugo/)
 
 

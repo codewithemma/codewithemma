@@ -21,7 +21,7 @@ I believe in the power of collaboration and love bringing innovative ideas to li
 
 Want to collaborate or just say hi? Reach out to me at:
 [codewithemma@gmail.com](mailto:codewithemma@gmail.com)
-[codewithemma](https://www.instagram.com/captain_ugo/)
+Instagram: [codewithemma](https://www.instagram.com/captain_ugo/)
 
 
 

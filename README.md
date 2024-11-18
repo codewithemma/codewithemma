@@ -1,19 +1,14 @@
 # Hi, I'm Emmanuel! 👋🏽
-Frontend Engineer | Next.js | Tech & Aviation Enthusiast | Gamer 🎮
+Software Engineer | Tech & Aviation Enthusiast
 
 ## About Me
-
-Passionate about building fast, scalable applications with Next.js. When not coding, you'll find me:
-- **Tech Video Explorer:** Getting lost in a tech video 📺
-- **Movie Buff:** Catching up on the latest movies and TV shows 🍿
-- **Gaming Enthusiast:** Exploring new worlds in video games 🌌
-
-I believe in the power of collaboration and love bringing innovative ideas to life. Let's build something amazing together! 🚀
+I am passionate about developing fast, scalable solutions and fostering collaboration. I enjoy turning innovative ideas into reality. Together, let’s create something extraordinary! 🚀
 
 ## Tech Stack
 
 **Frontend:** React, Next.js  
-**Database:** MongoDB  
+**Backend:** Node, express.js  
+**Database:** MongoDB, prisma
 **Deployment:** Vercel  
 **Version Control:** Git, GitHub
 

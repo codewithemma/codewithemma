@@ -15,7 +15,7 @@ I am passionate about developing fast, scalable solutions and fostering collabor
 ## Get in Touch
 
 Want to collaborate or just say hi? Reach out to me at: [codewithemma@gmail.com](mailto:codewithemma@gmail.com)<br>
-Instagram: [captain_ugo](https://www.instagram.com/captain_ugo/)
+Instagram: [captain_ugo](https://www.instagram.com/__codewithemma)
 
 
 

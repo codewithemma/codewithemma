@@ -1,5 +1,5 @@
 # Hi, I'm Emmanuel! 👋🏽
-Software Engineer | Tech & Aviation Enthusiast
+Full-Stack Developer | Tech & Aviation Enthusiast
 
 ## About Me
 I am passionate about developing fast, scalable solutions and fostering collaboration. I enjoy turning innovative ideas into reality. Together, let’s create something extraordinary! 🚀
